@@ -12,7 +12,7 @@
 
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alekjarmov&layout=compact&langs_count=10&hide=javascript,css,html,SCSS&count_private=true&hide_border=true&role=owner,collaborator&theme=merko" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alekjarmov&layout=compact&langs_count=10&hide=javascript,css,html,SCSS&count_private=true&hide_border=true&role=owner,collaborator&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
